@@ -1,8 +1,7 @@
 # To Do App
-> Here goes your awesome project description!
 
 ## General info
-To Do App , where you can add time of tasks.
+> To Do App , where you can add time of tasks.
 
 ## Technologies
 * React
