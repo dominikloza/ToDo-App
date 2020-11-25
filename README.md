@@ -1,3 +1,25 @@
-# ToDo-App
+# To Do App
+> Here goes your awesome project description!
 
-Aplikacja To Do z możliwością ustawienia czasu realizacji zadania.
+## General info
+To Do App , where you can add time of tasks.
+
+## Technologies
+* React
+* JS
+* HTML & CSS
+* Bootstrap 4
+* Font Awesome
+* Webpack
+
+
+## Features
+List of features
+* Adding new tasks
+* Adding operations to task
+* Adding duration of task
+
+
+## Status
+Project is: _finished_
+.
