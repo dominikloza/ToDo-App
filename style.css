@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.card-shadow {
+    margin-top: 100px;
+}
+
+.card.shadow {
+    margin-top: 100px;
+}
